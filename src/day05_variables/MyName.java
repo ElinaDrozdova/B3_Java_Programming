@@ -18,7 +18,7 @@ public class MyName {
        // String name = first + second + third + fourth + fifth; // не работает потому что int
 
         String name = " " + first + second + third + fourth + fifth; // работает потому что это уже строка .
-        System.out.println (name);
+
 
     }
 }

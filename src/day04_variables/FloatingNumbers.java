@@ -13,5 +13,6 @@ public class FloatingNumbers {
         System.out.println(average); //float
         System.out.println(4.5); // by default its double
 
+
     }
 }
