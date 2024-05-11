@@ -2,7 +2,7 @@ package day23_multidimensional_arrays;
 
 import java.util.Arrays;
 
-java.util.Arrays;
+
 
 public class BinarySearchExample {
     public static void main(String[] args) {
