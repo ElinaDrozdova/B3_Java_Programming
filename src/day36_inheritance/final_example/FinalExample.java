@@ -1,4 +1,4 @@
-package day36_inheritance.final_examples;
+package day36_inheritance.final_example;
 
 public class FinalExample {
 
